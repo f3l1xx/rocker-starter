@@ -1,13 +1,13 @@
 [![Build Status](https://travis-ci.org/jooby-project/rocker-starter.svg?branch=master)](https://travis-ci.org/jooby-project/rocker-starter)
 # rocker
 
-Starter kit for [Rocker](https://github.com/fizzed/rocker): Java 8 optimized, memory efficient, speedy template engine producing statically typed, plain java objects.
+Starter project for [Rocker](https://github.com/fizzed/rocker).
 
 ## quick preview
 
 This project contains a simple application that:
 
-* Render a HTML page
+* Render a HTML page using [Rocker](https://github.com/fizzed/rocker)
 
 [App.java](https://github.com/jooby-project/rocker-starter/blob/master/src/main/java/starter/rocker/App.java):
 
